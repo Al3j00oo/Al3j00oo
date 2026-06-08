@@ -31,7 +31,6 @@ alejandro = {
     "ubicacion":    "Pereira, Colombia 🇨🇴",
     "universidad":  "Universidad Tecnológica de Pereira",
     "semestre":     "6to semestre — Ing. Sistemas",
-    "certificacion":"Data Analysis Bootcamp · MinTIC · 159h (2026)",
     "idiomas":      ["Español (nativo)", "Inglés B2+"],
     "buscando":     "Contribuir en equipos data-driven ",
 }
