@@ -33,7 +33,7 @@ alejandro = {
     "semestre":     "6to semestre — Ing. Sistemas",
     "certificacion":"Data Analysis Bootcamp · MinTIC · 159h (2026)",
     "idiomas":      ["Español (nativo)", "Inglés B2+"],
-    "buscando":     "Contribuir en equipos data-driven 🚀",
+    "buscando":     "Contribuir en equipos data-driven ",
 }
 ```
 
@@ -67,30 +67,6 @@ alejandro = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## `// PROJECTS.EXE`
-
-> ⚠️ *Reemplaza estas tarjetas con tus proyectos reales*
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [📊 Nombre del proyecto](https://github.com/Al3j00oo) | Descripción corta de qué hace y qué problema resuelve | `Python` `Pandas` |
-| [🤖 Otro proyecto](https://github.com/Al3j00oo) | Descripción corta del modelo o análisis | `Scikit-learn` `SQL` |
-| [📈 Tercer proyecto](https://github.com/Al3j00oo) | Dashboard / visualización / EDA | `Matplotlib` `Seaborn` |
-
----
-
-## `// GITHUB.STATS`
-
-<div align="center">
-
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3j00oo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d1a&title_color=00ff9f&icon_color=00eaff&text_color=b48eff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3j00oo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d1a&title_color=00ff9f&text_color=b48eff)
-
-</div>
 
 ---
 
